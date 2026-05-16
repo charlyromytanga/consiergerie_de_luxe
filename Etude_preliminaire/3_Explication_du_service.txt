@@ -6,9 +6,11 @@ Cette description doit être précise, concise, claire.
 
 Il faut éviter d'employer des termes trop techniques.
 
-Vous devez être compris par des personnes qui ne connaissent rien à votre domaine d'activité.
+Vous devez être compris par des personnes qui ne connaissent 
+rien à votre domaine d'activité.
 
-Vous pouvez faire des schémas, dessins, etc. pour accompagner cette description du produit.
+Vous pouvez faire des schémas, dessins, etc. pour accompagner 
+cette description du produit.
 
 À noter
 
