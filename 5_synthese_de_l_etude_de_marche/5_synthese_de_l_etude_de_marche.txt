@@ -1,0 +1,524 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I. L'offre et le marché
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Notre projet d’entreprise s’inscrit dans le secteur des services à la personne, avec un positionnement résolument haut de gamme, centré sur la rapidité, la qualité et la personnalisation des prestations.
+
+L’offre proposée consiste à mettre à disposition, dans des délais très courts, des professionnels qualifiés pour répondre à des besoins urgents ou spécifiques à domicile. Il s’agit de prestations sur mesure, adaptées aux attentes d’une clientèle exigeante, recherchant à la fois efficacité, fiabilité et confort.
+
+Contrairement aux plateformes classiques de mise en relation, notre approche repose sur une sélection rigoureuse des prestataires et un contrôle de l’expérience client, garantissant un niveau de qualité constant et une prestation encadrée. L’objectif est de proposer un service fluide, sans friction, où le client bénéficie d’un interlocuteur unique et d’une prise en charge complète de sa demande.
+
+Le marché visé est celui des particuliers à fort pouvoir d’achat, principalement des cadres supérieurs et dirigeants, situés dans des zones urbaines dynamiques comme les Hauts-de-Seine. Cette clientèle se caractérise par un manque de temps, une forte exigence en termes de qualité et une volonté d’externaliser certaines tâches du quotidien.
+
+Ce marché connaît une évolution favorable, portée par plusieurs tendances de fond : la recherche de confort, la digitalisation des services, l’essor des prestations personnalisées et la montée en gamme des attentes clients. Par ailleurs, la méfiance croissante envers les plateformes généralistes ouvre la voie à des acteurs proposant une approche plus qualitative et encadrée.
+
+Dans ce contexte, notre projet vise à répondre à un besoin clairement identifié : offrir un service premium, réactif et fiable, capable de s’adapter aux contraintes et aux exigences d’une clientèle à forte valeur.
+
+Cette introduction pose ainsi les bases de l’analyse détaillée qui suivra, en présentant l’offre proposée et le marché ciblé dans lequel l’entreprise entend se positionner.
+
+I.1 - Offres 
+    a - Description
+    Notre entreprise propose un service premium de mise à disposition rapide de professionnels qualifiés pour des prestations à domicile, répondant à des besoins urgents ou spécifiques.
+
+    L’offre se distingue par une prise en charge complète de la demande client, depuis l’expression du besoin jusqu’à la réalisation de la prestation, avec un haut niveau d’exigence en termes de qualité, de réactivité et de personnalisation.
+
+    Les services proposés couvrent notamment :
+
+        Dépannage et assistance à domicile
+        Services liés à la résidence (entretien, gestion, intervention)
+        Organisation de services événementiels privés
+        Prestations sur mesure selon les besoins spécifiques du client
+
+    b - Caractéristiques distinctives
+    L’offre repose sur plusieurs éléments différenciants :
+        Réactivité immédiate : capacité à répondre à des demandes de dernière minute
+        Sélection rigoureuse des prestataires : professionnels expérimentés, souvent reconvertis
+        Encadrement des prestations : intervention sous une bannière commune avec standards définis
+        Expérience client premium : simplicité, fluidité, interlocuteur unique
+        Ultra-personnalisation : adaptation fine aux attentes du client
+
+    c - Expérience client et “design” du service
+    Même si le service est immatériel, l’expérience est pensée comme un produit premium :
+        Prise de contact rapide et fluide
+        Réponse claire et structurée
+        Intervention professionnelle (tenue, comportement, ponctualité)
+        Suivi post-prestation.
+        L’objectif est de créer une expérience proche des standards de la conciergerie de luxe.
+
+    d - Identité de marque
+    La marque repose sur trois piliers :
+        Exigence : qualité irréprochable des prestations
+        Confiance : sélection et contrôle des intervenants
+        Réactivité : capacité à répondre immédiatement
+    Promesse :
+        “Un service fiable, rapide et haut de gamme, sans compromis sur la qualité.”
+
+    e - Politique de gamme
+    L’offre est structurée en plusieurs niveaux :
+        Offre standard premium
+            Intervention rapide
+            Prestataires qualifiés
+            Prix premium accessible
+        Offre urgente (last-minute)
+            Intervention en délai très court
+            Priorisation de la demande
+            Prix majoré
+        Offre sur mesure / haut de gamme
+            Besoins complexes ou spécifiques
+            Accompagnement personnalisé
+            Tarification adaptée à la demande
+
+    f - Politique de prix 
+    Le modèle repose sur une tarification premium justifiée par la qualité et la rapidité du service.
+
+    Structure de prix :
+        Prix moyen prestation : 50€ à 150€ / heure (selon type de service)
+        Majoration urgence : +20% à +50%
+        Commission entreprise : 15% à 30%
+    Exemple concret :
+        Client paie : 100€
+        Prestataire reçoit : 70€ – 85€
+        Marge entreprise : 15€ – 30€
+    Tableau : Grille tarifaire des prestations
+    | Type de service               | Niveau de prestation        | Prix client (€) | Rémunération prestataire (€) | Marge entreprise (€) |
+    | ----------------------------- | --------------------------- | --------------- | ---------------------------- | -------------------- |
+    | Assistance / service standard | Planifié (48h)              | 50 – 80 €/h     | 40 – 65 €/h                  | 10 – 15 €/h          |
+    | Assistance rapide             | Sous 24h                    | 80 – 120 €/h    | 60 – 90 €/h                  | 20 – 30 €/h          |
+    | Intervention urgente          | < 4h                        | 120 – 180 €/h   | 85 – 130 €/h                 | 30 – 50 €/h          |
+    | Prestation sur mesure         | Complexe / spécifique       | Sur devis       | Sur devis                    | Variable             |
+    | Service événementiel privé    | Organisation / coordination | 150 – 500 €     | 100 – 350 €                  | 50 – 150 €           |
+
+    Options et majorations 
+    | Type de majoration         | Impact sur prix |
+    | -------------------------- | --------------- |
+    | Urgence (moins de 4h)      | +20% à +50%     |
+    | Nuit / week-end            | +25% à +50%     |
+    | Exigence spécifique client | +10% à +30%     |
+    | Intervention récurrente    | -10% à -20%     |
+
+    Offres preniums 
+    | Offre                      | Prix             | Description                                    |
+    | -------------------------- | ---------------- | ---------------------------------------------- |
+    | Abonnement mensuel premium | 150 – 300 €/mois | Accès prioritaire + service dédié              |
+    | Service VIP                | Sur devis        | Gestion complète + accompagnement personnalisé |
+
+    Positionnement clair :
+        pas low-cost → valeur + confort + gain de temps
+
+    g - Valeur ajoutée par rapport à la concurrence
+    Contrairement aux plateformes classiques :
+        Pas de mise en relation “brute”
+        Sélection et contrôle des prestataires
+        Expérience homogène et encadrée
+        Positionnement premium assumé
+
+    Le client achète :
+        du temps
+        de la tranquillité
+        de la fiabilité
+    
+    h - Validation terrain
+    L’offre sera testée sur une zone géographique ciblée (Hauts-de-Seine) afin de :
+        Valider l’acceptation du prix
+        Ajuster les types de prestations
+        Optimiser la qualité de service
+        Intégrer les retours clients
+
+I.2 - Clients 
+    a -Description client
+    Notre clientèle est constituée de particuliers vivant en milieu urbain et disposant d’un fort pouvoir d’achat. Il s’agit principalement de personnes actives ayant des responsabilités professionnelles importantes et un temps disponible limité pour gérer les tâches du quotidien.
+
+    Ces clients recherchent avant tout un service fiable, rapide et de qualité, capable de répondre à des besoins ponctuels ou urgents directement à domicile. Ils privilégient des solutions simples, efficaces et sécurisées, leur permettant de déléguer certaines tâches sans perte de temps ni de confort.
+
+    La cible principale se situe en Île-de-France, et plus précisément dans les zones résidentielles à forte concentration de cadres et dirigeants, notamment dans les Hauts-de-Seine. Ces zones regroupent une population habituée aux services premium et aux standards élevés en matière de prestation.
+
+    Les clients peuvent être à la fois les décideurs et les payeurs du service, mais aussi les bénéficiaires indirects (famille, proches). Dans certains cas, des prescripteurs comme des assistants personnels ou des services de conciergerie peuvent intervenir dans le processus de décision.
+
+    Enfin, cette clientèle se caractérise par une forte exigence en matière de qualité, de réactivité et de confiance. Elle est peu sensible au prix dès lors que le service répond à ses attentes en termes de rapidité, de simplicité et de fiabilité.
+
+    b - La localisation de la cible
+    La clientèle cible est principalement située en Île-de-France, avec une concentration forte dans les Hauts-de-Seine (92), 
+    notamment dans les zones de :
+        Levallois-Perret
+        Neuilly-sur-Seine
+        Rueil-Malmaison
+        Boulogne-Billancourt
+    Ces zones regroupent une population à fort pouvoir d’achat, avec un mode de vie urbain et des contraintes de temps importantes.
+
+    c - Les profils de clients
+    Notre cible se compose de plusieurs profils complémentaires :
+
+    Profil 1 : Acheteurs principaux (clients directs)
+        Cadres supérieurs
+        Dirigeants d’entreprise
+        Professions libérales
+    Ils prennent la décision et paient le service.
+
+    Profil 2 : Utilisateurs finaux
+        Ménages des clients (famille, conjoint)
+        Personnes bénéficiaires du service à domicile
+    Ils utilisent directement le service sans forcément l’avoir commandé.
+
+    Profil 3 : Prescripteurs indirects
+        Assistants personnels
+        Concierge privé
+        Entourage professionnel
+    Ils peuvent recommander ou déclencher l’achat.
+    
+    d - Motivations, freins et critères d’achat
+    Motivations
+        Gain de temps dans un quotidien chargé
+        Recherche de confort et de simplicité
+        Besoin de services rapides en cas d’urgence
+        Volonté d’externaliser certaines tâches
+        Recherche de qualité et de fiabilité
+    Freins
+        Manque de confiance dans les prestataires inconnus
+        Crainte d’un service non fiable ou non professionnel
+        Peur d’une mauvaise expérience à domicile
+        Prix perçu comme élevé
+    Critères d’achat
+        Rapidité d’intervention
+        Qualité du service rendu
+        Réputation et confiance
+        Simplicité du processus de commande
+        Transparence et encadrement du service
+
+    e - Modalités et processus d’achat
+    Aujourd’hui, les clients utilisent généralement :
+        Plateformes de mise en relation (type services à domicile)
+        Recommandations personnelles
+        Services de conciergerie privée
+        Recherche directe de prestataires locaux
+
+    Processus d’achat type :
+        Identification d’un besoin (souvent urgent ou ponctuel)
+        Recherche rapide d’une solution
+        Comparaison basée sur la confiance et la disponibilité
+        Validation rapide du prestataire
+        Réalisation de la prestation
+    Le processus est souvent rapide, mais peu encadré qualitativement.
+
+    f - Segmentation de la clientèle
+    Notre segmentation repose sur un critère principal : le niveau d’exigence et le pouvoir d’achat.
+    Segment 1 : Cadres supérieurs
+        Besoins réguliers
+        Forte contrainte de temps
+        Recherche de simplicité
+    Segment 2 : Dirigeants / entrepreneurs
+        Besoins urgents et imprévisibles
+        Forte exigence de réactivité
+        Acceptation d’un prix premium
+    Segment 3 : Clients haut de gamme résidentiels
+        Usage ponctuel ou régulier
+        Recherche de confort et de qualité
+        Sensibilité forte à l’expérience globale
+    
+    g - Prix psychologique de la cible
+    La cible est prête à payer un prix élevé si la valeur perçue est forte.
+    Fourchette acceptable :
+        50 € à 150 € / heure pour une prestation standard
+        Jusqu’à 200 € / heure pour une intervention urgente
+        Tarif forfaitaire de 150 € à 500 € pour services spécifiques ou événementiels
+
+I.3 - Concurents
+
+    a-  Panorama du marché concurrentiel
+
+    Le marché des services à domicile et de mise en relation de prestataires est déjà structuré en France, notamment en Île-de-France. Il se compose principalement de trois types d’acteurs :
+
+        Les plateformes de mise en relation généralistes
+
+        Les entreprises de services à domicile traditionnelles
+
+        Les services de conciergerie haut de gamme
+
+    Notre projet se positionne à l’intersection de ces modèles, avec une approche plus qualitative, réactive et premium.
+
+
+    b- Concurrents directs
+
+    Plateformes de mise en relation (ex : Yoojo, Wecasa, NeedHelp)
+    Forces :
+
+        Large réseau de prestataires
+
+        Prix compétitifs
+
+        Facilité d’accès via application
+
+        Couverture géographique large
+
+    Faiblesses :
+
+        Qualité des prestataires variable
+
+        Manque de contrôle réel de la prestation
+
+        Positionnement très “volume” et non premium
+
+        Expérience client peu personnalisée
+
+    Ces acteurs sont proches de notre activité, mais ne répondent pas aux exigences haut de gamme et de fiabilité totale.
+
+
+    Entreprises de services à domicile classiques (ex : O2 Care Services, Shiva)
+    Forces :
+
+        Structure organisée et encadrée
+
+        Personnel salarié ou formé
+
+        Bonne réputation sur les services réguliers
+
+    Faiblesses :
+
+        Peu adaptées aux urgences
+
+        Processus rigides et peu flexibles
+
+        Offre standardisée, peu personnalisée
+
+        Positionnement davantage “ménage / régulier” que premium à la demande
+
+
+    c- Concurrents indirects
+
+    Services de conciergerie privée (ex : John Paul, MyConcierge)
+    Forces :
+
+        Positionnement haut de gamme
+
+        Forte personnalisation
+
+        Service très qualitatif
+
+        Clientèle premium déjà acquise
+
+    Faiblesses :
+
+        Prix très élevés
+
+        Accessibilité limitée (souvent abonnement ou entreprise)
+
+        Peu adaptés aux interventions ponctuelles urgentes à domicile
+
+
+    Prestataires indépendants (auto-entrepreneurs, bouche-à-oreille)
+    Forces :
+
+        Prix compétitifs
+
+        Relation directe client-prestataire
+
+        Flexibilité
+
+    Faiblesses :
+
+        Manque de fiabilité
+
+        Absence de garantie ou encadrement
+
+        Qualité très variable
+
+        Risque de non-disponibilité en urgence
+
+
+    d- Positionnement concurrentiel de notre projet
+
+    Notre entreprise se distingue par un positionnement hybride :
+
+        entre la flexibilité des plateformes
+        et le niveau de qualité des services premium
+
+    Nous nous positionnons comme un acteur :
+
+        plus fiable que les plateformes généralistes
+
+        plus réactif que les conciergeries classiques
+
+        plus qualitatif que les prestataires indépendants
+
+
+    e- Pourquoi les clients choisiraient notre offre.
+
+    Les clients se tourneraient vers notre solution pour :
+
+        la garantie de qualité des prestataires
+
+        la réactivité en cas d’urgence
+
+        l’expérience client encadrée et simplifiée
+
+        la sélection stricte des intervenants
+
+        le positionnement premium mais accessible
+
+
+    f- Synthèse concurrentielle
+
+    Le marché actuel est fragmenté entre volume (plateformes), rigidité (services classiques) et exclusivité (conciergerie). Notre projet se positionne comme une solution intermédiaire haut de gamme, combinant rapidité, qualité et personnalisation.
+
+    Tableau comparatif des acteurs du marché
+
+    | Critères                       | Plateformes (Yoojo / Wecasa) | Services à domicile (O2 / Shiva) | Conciergerie premium (John Paul) | **Notre projet**                       |
+    | ------------------------------ | ---------------------------- | -------------------------------- | -------------------------------- | -------------------------------------- |
+    | **Positionnement**             | Volume / low-cost            | Service standard structuré       | Ultra-premium                    | **Premium réactif & personnalisé**     |
+    | **Réactivité**                 | Moyenne à variable           | Faible (planning fixe)           | Bonne mais planifiée             | **Très élevée (urgence possible)**     |
+    | **Qualité des prestataires**   | Très variable                | Encadrée mais standardisée       | Très élevée                      | **Sélection stricte & contrôlée**      |
+    | **Niveau de personnalisation** | Faible                       | Moyen                            | Très élevé                       | **Très élevé + sur mesure**            |
+    | **Gestion des urgences**       | Limitée                      | Très limitée                     | Rarement adaptée                 | **Point fort (urgence + last minute)** |
+    | **Prix**                       | Faible à moyen               | Moyen                            | Très élevé                       | **Premium accessible**                 |
+    | **Expérience client**          | Fonctionnelle                | Standard                         | Luxe                             | **Fluide, simple, encadrée**           |
+    | **Confiance / sécurité**       | Variable                     | Bonne                            | Très bonne                       | **Très élevée (filtrage + contrôle)**  |
+    | **Type de clientèle**          | Grand public                 | Familles / ménages               | Ultra haut de gamme              | **Cadres & dirigeants urbains**        |
+    | **Relation client**            | Automatisée                  | Téléphonique / agence            | Concierge dédié                  | **Hybride humain + structuré**         |
+
+    Notre positionnement se situe entre les plateformes de volume et les services de conciergerie haut de gamme, en combinant réactivité, contrôle qualité et personnalisation, sur un segment encore peu structuré du marché.
+    
+    
+    Le projet se positionne sur un segment intermédiaire entre plateformes de volume et services de conciergerie haut de gamme, en apportant une réponse plus réactive, qualitative et accessible aux besoins des clients premium.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+II. Le positionnement et le Chiffre d'affairs
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Cette partie vise à présenter la manière dont l’entreprise se situe sur son marché, ainsi que les grandes lignes de son modèle économique. Elle permet de définir le positionnement retenu face à la concurrence, en tenant compte du niveau de gamme, de la structure de l’offre et du type de clientèle visée.
+
+Elle introduit également les éléments liés à la génération de chiffre d’affaires et aux principales catégories de coûts associés à l’activité. L’objectif est de poser les bases d’un modèle économique cohérent, réaliste et adapté aux caractéristiques du marché ciblé.
+
+Cette analyse permet ainsi de relier l’offre de l’entreprise à sa viabilité économique, en mettant en évidence la manière dont elle crée de la valeur et structure ses revenus.
+
+
+II.1 - Positionnement
+    Le positionnement repose sur un espace intermédiaire entre les plateformes de volume et les services de conciergerie haut de gamme, en combinant réactivité, contrôle qualité et standardisation du service.
+
+    Le positionnement de l’entreprise s’inscrit sur un segment de services à domicile haut de gamme, orienté vers des particuliers à fort pouvoir d’achat recherchant des prestations fiables, rapides et adaptées à des besoins spécifiques.
+
+    L’analyse du marché met en évidence une segmentation claire entre les plateformes de mise en relation généralistes, les entreprises de services à domicile structurées et les acteurs de conciergerie haut de gamme. Ces modèles répondent chacun à une partie du besoin client, mais présentent des limites en termes de réactivité, de contrôle de la qualité ou d’accessibilité.
+
+    Dans ce contexte, le positionnement retenu consiste à occuper un espace intermédiaire entre ces différentes offres, en combinant un niveau de service élevé avec une capacité d’intervention rapide et flexible. L’objectif est de répondre à des situations où les solutions existantes ne sont pas suffisamment adaptées, notamment en cas de demande urgente ou de besoin très spécifique.
+
+    La valeur ajoutée repose sur trois éléments principaux : la sélection et l’encadrement des prestataires, la standardisation du niveau de qualité des interventions et la capacité à assurer une continuité de service homogène. L’entreprise ne se limite pas à une mise en relation, mais structure et contrôle l’ensemble de la prestation afin de garantir un niveau de fiabilité constant.
+
+    Ce positionnement est cohérent avec la cible identifiée, composée de clients urbains, exigeants et disposant de peu de temps, pour lesquels la fiabilité du service et la simplicité d’accès sont des critères déterminants dans le choix d’une offre.
+
+    Enfin, ce positionnement apparaît à la fois attractif et crédible au regard des ressources mobilisables et de la structure du marché, en s’appuyant sur un modèle flexible mais encadré, adapté aux besoins non couverts par les acteurs existants.
+
+
+II.2 - Chiffre d'affairs et achats
+    a - Explication du chiffre d'affaires, des achats et des stocks 
+
+    b -  Liste des produits et services de votre offre pour calcul du CA 
+    | Nom du service                 | Nature  | TVA | Prix de vente moyen | Objectif de vente annuel | Chiffre d’affaires annuel |
+    | ------------------------------ | ------- | --- | ------------------- | ------------------------ | ------------------------- |
+    | Prestation standard à domicile | Service | 20% | 80 € / heure        | 3 000 prestations        | 240 000 €                 |
+    | Intervention rapide (<24h)     | Service | 20% | 120 € / heure       | 1 500 prestations        | 180 000 €                 |
+    | Intervention urgente (<4h)     | Service | 20% | 150 € / heure       | 800 prestations          | 120 000 €                 |
+    | Services événementiels         | Service | 20% | 300 € / prestation  | 200 prestations          | 60 000 €                  |
+    | **Chiffre d’affaires total**   |         |     |                     |                          | **600 000 €**             |
+
+    Projection du chiffre d’affaires
+        Année 1 (09/26 – 08/27) : 600 000 € HT
+        Année 2 (09/27 – 08/28) : 950 000 € HT
+        Année 3 (09/28 – 08/29) : 1 400 000 € HT
+    
+    c -  Stocks initiaux 
+    L’activité étant entièrement basée sur des prestations de service, aucun stock initial n’est nécessaire.
+    
+    d -  Travaux en cours 
+    L’activité nécessite une avance de trésorerie liée au délai entre la réalisation des prestations et l’encaissement des clients.
+        Année 1 : 5 jours de chiffre d’affaires
+        Année 2 : 5 jours de chiffre d’affaires
+        Année 3 : 4 jours de chiffre d’affaires
+    
+    e -  Stocks de produits finis 
+    Aucun stock de produits finis n’est généré par l’activité.
+        Année 1 : 0 €
+        Année 2 : 0 €
+        Année 3 : 0 €
+    
+    f -  Tableau récapitulatif de tous vos achats 
+    Les principaux achats concernent les charges de fonctionnement de la plateforme et les coûts liés à la coordination des prestations.
+    
+    | Type d’achat                     | Nature       | TVA | % du CA TTC | Montant journalier TTC | Fournisseur               | Délai paiement | Dette moyenne | Stock moyen |
+    | -------------------------------- | ------------ | --- | ----------- | ---------------------- | ------------------------- | -------------- | ------------- | ----------- |
+    | Outils digitaux & infrastructure | SaaS / tech  | 20% | 8%          | 130 €                  | Prestataires logiciels    | 30 jours       | Faible        | 0           |
+    | Coordination opérationnelle      | RH / support | 20% | 35%         | 570 €                  | Prestataires / freelances | 15 jours       | Moyen         | 0           |
+    | Frais administratifs             | Services     | 20% | 5%          | 80 €                   | Divers                    | 30 jours       | Faible        | 0           |
+
+
+    g -  Tableau récapitulatif de toutes vos créances clients 
+    Les clients étant des particuliers, les paiements sont réalisés majoritairement immédiatement ou à très court terme.
+
+    Typologie de clientèle	Client	% CA	Modalité de paiement	Délai paiement	Créance mensuelle TTC
+    Particuliers premium	Cadres / dirigeants	100%	Paiement immédiat	0 à 3 jours	Faible
+
+    Mini prévisionnel de rentabilité
+    Hypothèse du modèle :
+        Une commission moyenne de 20% à 25% sur chaque prestation
+        Le reste est reversé au prestataire
+
+    CA Année 1 : 600 000 € HT
+    Commission moyenne : 22%
+    CA net (revenu réel entreprise) : 132 000 €
+    Structure des coûts (Année 1)
+    | Poste de coût               | % du CA net | Montant      |
+    | --------------------------- | ----------- | ------------ |
+    | Coordination / opérations   | 35%         | 46 200 €     |
+    | Tech (plateforme, outils)   | 10%         | 13 200 €     |
+    | Administratif / juridique   | 8%          | 10 560 €     |
+    | Acquisition / réseau (soft) | 7%          | 9 240 €      |
+    | Divers / imprévus           | 5%          | 6 600 €      |
+    | **Total charges**           | **65%**     | **85 800 €** |
+
+    Résultats
+    | Indicateur          | Montant      |
+    | ------------------- | ------------ |
+    | CA net (commission) | 132 000 €    |
+    | Charges totales     | 85 800 €     |
+    | **Résultat brut**   | **46 200 €** |
+
+    Lecture : Marge nette ≈ 35%
+
+    Projection rapide:
+    | Année   | CA total | CA net (22%) | Résultat estimé |
+    | ------- | -------- | ------------ | --------------- |
+    | Année 1 | 600k     | 132k         | 46k             |
+    | Année 2 | 950k     | 209k         | 75k             |
+    | Année 3 | 1.4M     | 308k         | 120k            |
+
+    Ce qui est mis en avant :
+        scalabilité
+        effet volume
+        marge stable voire améliorée
+    
+    Compte de résultat prévisionnel (3 ans)
+    |                          | Année 1 | Année 2 | Année 3  |
+    | ------------------------ | ------- | ------- | -------- |
+    | CA                       | 600k    | 950k    | 1.4M     |
+    | Reversement prestataires | -468k   | -741k   | -1.092M  |
+    | **Marge brute**          | 132k    | 209k    | 308k     |
+    | Charges                  | -85k    | -134k   | -188k    |
+    | **Résat net**            | **46k** | **75k** | **120k** |
+
+    Sur un plan de financement initial : 
+    | Besoin                                | Montant      |
+    | ------------------------------------- | ------------ |
+    | Développement plateforme              | 15 000 €     |
+    | Lancement (juridique + structuration) | 5 000 €      |
+    | Trésorerie de départ                  | 10 000 €     |
+    | **Total**                             | **30 000 €** |
+
+    Financement :
+    | Source           | Montant  |
+    | ---------------- | -------- |
+    | Apport personnel | 10 000 € |
+    | Aides / prêts    | 20 000 € |
+
+    Seuil de rentabilité : 
+    Charges fixes ≈ 85 000 €
+    Commission moyenne = 22%
+    CA nécessaire : 85000/.022 = 386000€
+    Seuil de rentabilité ≈ 400 000 € de volume de prestations
+
+    Le modèle économique présente une forte rentabilité grâce à une structure de coûts légère, une absence de stock et un effet de levier important lié au volume de prestations. Le seuil de rentabilité est atteint rapidement, ce qui sécurise la viabilité du projet dès la première année.
